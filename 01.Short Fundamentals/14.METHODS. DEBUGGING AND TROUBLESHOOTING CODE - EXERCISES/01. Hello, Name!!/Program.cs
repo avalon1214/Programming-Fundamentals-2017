@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("Hello, {0}!", name);
     }
-    static void Main()  // 100/100
+    static void Main()
     {
         string name = Console.ReadLine();
         printName(name);
